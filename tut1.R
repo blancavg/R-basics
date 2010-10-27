@@ -183,3 +183,8 @@ dev.off()
 
 q(status=1)
 
+#u <- uir$users
+#i <- uir$items
+#ui <- c(uir$users,uir$items)
+#useritem <- data.frame(User=u,Item=i)
+
